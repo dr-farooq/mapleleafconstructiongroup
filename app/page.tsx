@@ -140,13 +140,13 @@ export default function Page() {
                       <span>+1 (289) 544-9900</span>
                     </a>
                     <a
-                      href="mailto:admin@mapleleafconstruction.ca"
+                      href="mailto:admin@mmapleleafconstructiongroup.ca"
                       className="flex items-center justify-center gap-2 text-lg text-primary hover:text-primary/80 transition-colors font-medium group"
                     >
                       <span className="group-hover:scale-110 transition-transform">
                         ✉️
                       </span>
-                      <span>admin@mapleleafconstruction.ca</span>
+                      <span>admin@mmapleleafconstructiongroup.ca</span>
                     </a>
                   </div>
                 </div>
